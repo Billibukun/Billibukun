@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Billibukun
 - 👀 I’m interested in UX/UI designs, data colleciton systems and data analysis 
-- 🌱 I’m currently learning SQL, Pythoin and R for data asience
+- 🌱 I’m currently learning SQL, Pythoin and R for data science
 - 💞️ I’m looking to collaborate on design, UX/UI designs and data science projects
 - 📫 How to reach me billibukun@gmail.com or call me on +2348121796847
