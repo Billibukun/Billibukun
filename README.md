@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Billibukun
-- 👀 I’m interested in UX/UI designs, data colleciton systems and data analysis 
-- 🌱 I’m currently learning SQL, Pythoin and R for data science
-- 💞️ I’m looking to collaborate on design, UX/UI designs and data science projects
-- 📫 How to reach me billibukun@gmail.com or call me on +2348121796847
+- 👀 I’m a data design expert, I deal with data models and structures for census data and busiensses
+- 🌱 I currently work with excel, R and I am learning Python and SQl.
+- 💞️ I’m looking to collaborate on design, UX/UI designson data systems and data science projects
+- 📫 Reach me via billibukun@gmail.com or call me on +2348121796847
